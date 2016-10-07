@@ -21,6 +21,7 @@
 		B78536491DA540F1001B1C70 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B78536481DA540F1001B1C70 /* Assets.xcassets */; };
 		B785364C1DA540F1001B1C70 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B785364A1DA540F1001B1C70 /* LaunchScreen.storyboard */; };
 		B78536571DA54D37001B1C70 /* GeometryFighter.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = B78536561DA54D37001B1C70 /* GeometryFighter.scnassets */; };
+		B7E424191DA7E45E00B90699 /* Explode.scnp in Resources */ = {isa = PBXBuildFile; fileRef = B7E424181DA7E45E00B90699 /* Explode.scnp */; };
 		B7F202A51DA6A2910042BE9B /* Trail.scnp in Resources */ = {isa = PBXBuildFile; fileRef = B7F202A31DA6A2910042BE9B /* Trail.scnp */; };
 		B7F202A61DA6A2910042BE9B /* spark.png in Resources */ = {isa = PBXBuildFile; fileRef = B7F202A41DA6A2910042BE9B /* spark.png */; };
 /* End PBXBuildFile section */
@@ -42,6 +43,7 @@
 		B785364B1DA540F1001B1C70 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B785364D1DA540F1001B1C70 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B78536561DA54D37001B1C70 /* GeometryFighter.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = GeometryFighter.scnassets; sourceTree = "<group>"; };
+		B7E424181DA7E45E00B90699 /* Explode.scnp */ = {isa = PBXFileReference; lastKnownFileType = file.scp; path = Explode.scnp; sourceTree = "<group>"; };
 		B7F202A31DA6A2910042BE9B /* Trail.scnp */ = {isa = PBXFileReference; lastKnownFileType = file.scp; name = Trail.scnp; path = Particles/Trail.scnp; sourceTree = "<group>"; };
 		B7F202A41DA6A2910042BE9B /* spark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = spark.png; path = Particles/spark.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -108,6 +110,7 @@
 			isa = PBXGroup;
 			children = (
 				B7F202A31DA6A2910042BE9B /* Trail.scnp */,
+				B7E424181DA7E45E00B90699 /* Explode.scnp */,
 				B7F202A41DA6A2910042BE9B /* spark.png */,
 			);
 			name = Particles;
@@ -178,6 +181,7 @@
 				B785364C1DA540F1001B1C70 /* LaunchScreen.storyboard in Resources */,
 				B78536491DA540F1001B1C70 /* Assets.xcassets in Resources */,
 				B78536471DA540F1001B1C70 /* Main.storyboard in Resources */,
+				B7E424191DA7E45E00B90699 /* Explode.scnp in Resources */,
 				B78536571DA54D37001B1C70 /* GeometryFighter.scnassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
